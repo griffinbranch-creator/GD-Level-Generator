@@ -1,6 +1,6 @@
 # **This project has been permanently discontinued**
-Soon, I will be releasing my newest Geode mod, EditorAI, publically. Once that is done, this will be made private permanently. Check out the new mod when it releases, it looks great so far!
-
+Please check out EditorAI, found [here](https://github.com/entity12208/EditorAI)!
+Due to things not working properly, I have turned this entire system into a Geode mod, called EditorAI. Find more about EditorAI at **https://github.com/entity12208/EditorAI**. 
 # Level Input File Format Guide
 #### **(Send the Github Pages link to the AI and just tell them to read this thouroughly and make a level)**
 
