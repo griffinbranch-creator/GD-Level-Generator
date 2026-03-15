@@ -1,0 +1,58 @@
+name: "Pulse Route"
+desc: "Medium layout with cube flow, pads, mini portal, orb timing, and one coin"
+author: "ChatGPT"
+version: "1"
+song: "120"
+bg: "#101820"
+gnd: "#2b2f3a"
+length: "4200"
+difficulty: "3"
+secretCoins: "1"
+featured: "0"
+official: "0"
+creatorID: "0"
+songVolume: "100"
+reserved: "0"
+
+level = [
+    [id: 1, col: 1, pos: 0,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 1, col: 1, pos: 100,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 1, col: 1, pos: 200,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 1, col: 1, pos: 300,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 1, col: 1, pos: 400,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 1, col: 1, pos: 500,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+
+    [id: 7, col: 3, pos: 700,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+
+    [id: 1, col: 1, pos: 900,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 1, col: 1, pos: 1000,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 1, col: 1, pos: 1100,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 140, col: 2, pos: 1200,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+
+    [id: 1, col: 1, pos: 1400,100, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 1, col: 1, pos: 1500,100, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 7, col: 3, pos: 1700,100, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+
+    [id: 101, col: 1, pos: 1900,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+
+    [id: 1, col: 1, pos: 2100,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 1, col: 1, pos: 2200,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 36, col: 2, pos: 2300,150, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 1, col: 1, pos: 2400,100, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 84, col: 2, pos: 2550,150, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+
+    [id: 99, col: 1, pos: 2700,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+
+    [id: 1, col: 1, pos: 2900,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 1, col: 1, pos: 3000,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 67, col: 2, pos: 3100,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+
+    [id: 289, col: 1, pos: 3300,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 1329, col: 2, pos: 3450,250, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+
+    [id: 1, col: 1, pos: 3600,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 7, col: 3, pos: 3700,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 7, col: 3, pos: 3800,0, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 1, col: 1, pos: 3900,100, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0],
+    [id: 1, col: 1, pos: 4000,100, gid: -1, lay: 1, ext: "", rot: 0, scale: 1, movx: 0, movy: 0, movd: 0, movt: 0, movdelay: 0]
+]
